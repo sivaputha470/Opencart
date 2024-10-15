@@ -1,0 +1,23 @@
+17:42:43.789 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:42:45.855 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:42:45.942 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+17:42:51.021 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+17:42:54.671 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+18:09:25.513 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\welcome\eclipse-workspace\Opencart\master.xml"
+18:09:34.026 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+18:09:35.265 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:09:35.862 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:09:35.873 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:09:37.888 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+18:09:37.968 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+18:09:45.984 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+18:09:48.947 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+18:20:38.556 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\welcome\eclipse-workspace\Opencart\master.xml"
+18:20:47.109 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+18:20:48.288 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+18:20:48.951 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+18:20:48.975 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:20:51.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+18:20:51.102 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+18:20:56.458 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+18:20:59.736 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest ******
